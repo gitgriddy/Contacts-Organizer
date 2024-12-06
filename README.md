@@ -1,4 +1,4 @@
-<h1>Contacts Organizer</h1>
+<h1>📲Contacts Organizer</h1>
 
 
 <h2>Description</h2>
