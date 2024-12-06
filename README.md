@@ -20,19 +20,23 @@ Contact Management System that allows users to manage personal contacts. It supp
 
 <p align="center">
 Load Current Contacts: <br/>
-<img src="https://i.imgur.com/pf7D0wm.png" height="80%" width="80%" alt="D&L Shop"/>
+<img src="https://i.imgur.com/jpgtyto.png" height="80%" width="80%" alt="D&L Shop"/>
 <br />
 <br />
-Add & Edit Contacts:  <br/>
-<img src="https://i.imgur.com/HD3oasl.png" height="80%" width="80%" alt="Add Items to Cart"/>
+Add Contacts:  <br/>
+<img src="https://i.imgur.com/xNxuoIc.png" height="80%" width="80%" alt="Add Items to Cart"/>
 <br />
 <br />
 Contact Details: <br/>
-<img src="https://i.imgur.com/hST3S9r.png" height="80%" width="80%" alt="Checkout"/>
+<img src="https://i.imgur.com/CfxAbCE.png" height="80%" width="80%" alt="Add Items to Cart"/>
 <br />
 <br />
 Updated Contact List:  <br/>
-<img src="https://i.imgur.com/Ildk7sa.png" height="80%" width="80%" alt="Thank You Screen"/>
+<img src="https://i.imgur.com/P7HPV1K.png" height="80%" width="80%" alt="Thank You Screen"/>
+<br />
+<br />
+Reloaded:  <br/>
+<img src="https://i.imgur.com/RCEeeLt.png" height="80%" width="80%" alt="Thank You Screen"/>
 <br />
 <br />
 
